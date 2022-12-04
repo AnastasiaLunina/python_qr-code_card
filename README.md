@@ -1,6 +1,8 @@
 ## About
 ### Make your QRcode card
 
+<img src="./my-vcard.png" alt="qr-code">
+
 ## How to
 
 1. The first thing to do is to clone the repository:
